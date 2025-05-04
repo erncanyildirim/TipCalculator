@@ -6,7 +6,7 @@
 
 ## 📱 Ekran Görüntüsü
 
-![Uygulama Ekranı](Screenshots/TipCalcBkg1.png)
+![Uygulama Ekranı](TipCalculator/Screenshots/TipCalcBkg1.png)
 
 ---
 
